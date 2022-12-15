@@ -225,24 +225,24 @@ button {
 	
 @font-face {
 	font-family: 'Gilroy-Bold'; 
-	src: url(/ttf/GilroyBold.ttf); 
+	src: url(/seminar5/ttf/GilroyBold.ttf); 
 	}
 
 @font-face {
     font-family: 'Gilroy-SemiBold'; 
-    src: url(/ttf/GilroySemiBold.ttf); 
+    src: url(/seminar5/ttf/GilroySemiBold.ttf); 
     }
 
 
 @font-face {
     font-family: 'Gilroy-Medium'; 
-    src: url(/ttf/GilroyMedium.ttf); 
+    src: url(/seminar5/ttf/GilroyMedium.ttf); 
     }
 
     
 @font-face {
     font-family: 'Gilroy-Regular'; 
-    src: url(/ttf/gilroy-regular.ttf); 
+    src: url(/seminar5/ttf/gilroy-regular.ttf); 
     }
 /* Страница Service */
 
