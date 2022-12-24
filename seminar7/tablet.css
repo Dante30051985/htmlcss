@@ -1,0 +1,89 @@
+
+  .desktopIndex{height: 100%;}
+  #logotype{
+    left:17.44%;
+  }
+
+  #man{
+    width: 550px;
+    height: 471px;
+  }
+
+  #man img{
+    margin-left: 70px;
+  }
+
+  #textBlock1{
+    width: 570px;
+  }
+
+  .container{
+    margin-top: 10px;
+
+    gap:5px 5px;
+    grid-template-columns: 32% 32% 32%;
+    grid-template-rows: 59%;
+  }
+
+ 
+
+
+  .Fetured{
+    margin-top: 10px;
+    margin-left: calc(100%/5);
+  }
+ .containerProduct{
+    margin-left:calc(100%/6);
+    margin-top: 20px;
+    margin-right:3%;
+    grid-template-columns: 280px 280px 280px;
+    grid-template-rows: 375px 375px;
+    gap: 10px 10px;
+    overflow: hidden;
+ }
+
+ .wrapperSale{
+    width: 100%;
+    height: 350px;
+ }
+ .wrapperImage{
+    width: 100%;
+    height: 200px;
+    overflow: hidden;
+ }
+
+ .wrapperImage img{
+    height: 330px;
+ }
+
+
+ .descriptionProduct{
+    padding-left: 10px;
+    width: 270.74px;
+ }
+
+ .nameProduct{
+    padding-left: 10px;
+ }
+
+ .zenaProduct{
+    padding-top: 35px;
+    padding-bottom: 35px;
+    padding-left: 10px;
+ }
+
+ 
+
+ .otherProduct{
+    position: relative;
+    width: 100%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+ }
+
+
+
+ .wrapperContainer{
+    margin-left: calc(100%/6);
+    margin-top: 5px;
+ }
