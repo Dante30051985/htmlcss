@@ -7,7 +7,7 @@
       margin-left: 0px;
       margin-top: 20px;
       grid-template-columns: 300px 300px 300px;
-      grid-template-rows: 250px 96px;
+      grid-template-rows: 410px 260px;
    }
 
   }
@@ -26,7 +26,7 @@
       margin-top: 20px;
       margin-right:3%;
       grid-template-columns: 280px 280px 280px;
-      grid-template-rows: 375px 375px;
+      grid-template-rows: 533px 517px;
       gap: 10px 10px;
       overflow: hidden;
    }
@@ -72,7 +72,7 @@
  }
  .wrapperImage{
     width: 100%;
-    height: 200px;
+    height: 100%;
     overflow: hidden;
  }
 
