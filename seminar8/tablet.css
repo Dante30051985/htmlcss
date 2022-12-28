@@ -1,0 +1,103 @@
+
+  @media screen and (orientation:landscape) { 
+   .wrapperContainer{ margin-left: 0%;}
+   #logotype{position: relative;left:30px; }
+   #search{left:4.75%;}
+   .containerProduct{
+      margin-left: 0px;
+      margin-top: 20px;
+      grid-template-columns: 300px 300px 300px;
+      grid-template-rows: 410px 260px;
+   }
+
+  }
+
+  @media screen and (orientation: portrait) {
+   .wrapperContainer{
+      margin-left:12%;
+      margin-top: 5px;
+   }
+   #logotype{
+      left:17.44%;
+    }
+  
+    .containerProduct{
+      margin-left:calc(100%/6);
+      margin-top: 20px;
+      margin-right:3%;
+      grid-template-columns: 280px 280px 280px;
+      grid-template-rows: 533px 517px;
+      gap: 10px 10px;
+   }
+}
+
+
+
+  .desktopIndex{height: 100%;}
+
+  #man{
+    width: 451px;
+    height: 430px;
+  }
+
+  #man img{
+    margin-left: 70px;
+  }
+
+  #textBlock1{
+    width: 570px;
+  }
+
+  .container{
+    margin-top: 10px;
+
+    gap:5px 5px;
+    grid-template-columns: 32% 32% 32%;
+    grid-template-rows: 59%;
+  }
+
+ 
+
+
+  .Fetured{
+    margin-top: 10px;
+ 
+  }
+
+
+ .wrapperSale{
+    width: 100%;
+    height: 350px;
+ }
+ .wrapperImage{
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+ }
+
+
+
+ .descriptionProduct{
+    padding-left: 10px;
+    width: 270.74px;
+ }
+
+ .nameProduct{
+    padding-left: 10px;
+ }
+
+ .zenaProduct{
+    padding-top: 35px;
+    padding-bottom: 35px;
+    padding-left: 10px;
+ }
+
+ 
+
+ .otherProduct{
+    position: relative;
+    width: 100%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+ }
+
